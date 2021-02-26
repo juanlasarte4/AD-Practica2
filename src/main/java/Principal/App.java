@@ -36,6 +36,7 @@ public class App {
 			System.out.println("6.- Muestra todos los detalles de los pedidos de un cliente");
 			System.out.println("7.- Muestra el empleado del mes");
 			System.out.println("0.- Salir del programa");
+			
 			// PEDIMOS QUE ES LO QUE QUIERE EL USUARIO
 			opcion = Leer.pedirEnteroValidar();
 
